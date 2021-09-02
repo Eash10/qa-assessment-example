@@ -18,5 +18,5 @@ def endsPy(input):
     if input[-2:] == "PY":
         return True
     else: 
-        return 'False'
+        return False
     
